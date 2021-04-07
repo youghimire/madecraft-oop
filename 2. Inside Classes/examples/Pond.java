@@ -19,7 +19,8 @@ public class Pond {
 		wolfgangDuck.waddle();
 
 		System.out.println(mobyDuck);
-		
+
+		mobyDuck.quack();
 		// Exercise: Make the Duck quack
 		
 	}
